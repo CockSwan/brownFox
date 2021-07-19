@@ -1,2 +1,0 @@
-# brownFox
-BrownFox words finding
